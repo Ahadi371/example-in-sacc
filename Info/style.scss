@@ -1,0 +1,22 @@
+$infocolor: rgb(0, 191, 255);
+$whitecolor:red;
+.alert-info {
+  background-color: $infocolor;
+  padding: 20px;
+  margin-bottom: 15px;
+  color: $whitecolor;
+}
+.button-info {
+  background-color: $infocolor;
+  padding: 8px 20px;
+  color: $whitecolor;
+}
+.badge-info {
+  background-color: $infocolor;
+  padding: 4px 8px;
+  text-align: center;
+  border-radius: 7px;
+  color: $whitecolor;
+  
+}
+

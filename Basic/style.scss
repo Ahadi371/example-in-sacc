@@ -1,0 +1,20 @@
+$basiccolor:rgba(0, 0, 0, 0.298);
+$whitecolor:black;
+.alert-basic {
+  background-color:$basiccolor;
+  padding: 20px;
+  margin-bottom: 15px;
+  color: $whitecolor;
+}
+.button-basic {
+  background-color: $basiccolor;
+  padding: 8px 20px;
+  color: $whitecolor;
+}
+.badge-basic {
+  background-color: $basiccolor;
+  padding: 4px 8px;
+  text-align: center;
+  border-radius: 7px;
+  color: $whitecolor;
+}

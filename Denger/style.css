@@ -1,0 +1,20 @@
+.alert-denger {
+  background-color: red;
+  padding: 20px;
+  margin-bottom: 15px;
+  color: white;
+}
+
+.button-denger {
+  background-color: red;
+  padding: 8px 20px;
+  color: white;
+}
+
+.badge-denger {
+  background-color: red;
+  padding: 4px 8px;
+  text-align: center;
+  border-radius: 7px;
+  color: white;
+}/*# sourceMappingURL=style.css.map */

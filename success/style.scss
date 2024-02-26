@@ -1,0 +1,20 @@
+$alertsuccess:green;
+$whitecolor:white;
+.alert-succes {
+  background-color: $alertsuccess;
+  padding: 20px;
+  margin-bottom: 15px;
+  color: $whitecolor;
+}
+.button-success {
+  background-color: $alertsuccess;
+  padding: 8px 20px;
+  color: $whitecolor;
+}
+.badge-success {
+  background-color: $alertsuccess;
+  padding: 4px 8px;
+  text-align: center;
+  border-radius: 7px;
+  color: $whitecolor;
+}

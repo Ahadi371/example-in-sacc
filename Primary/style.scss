@@ -1,0 +1,20 @@
+$primarycolor:rgb(0, 140, 255);
+$whitecolor:white;
+.alert-primary {
+  background-color: $primarycolor;
+  padding: 20px;
+  margin-bottom: 15px;
+  color: $whitecolor;
+}
+.button-primary {
+  background-color: $primarycolor;
+  padding: 8px 20px;
+  color: $whitecolor;
+}
+.badge-primary {
+  background-color: $primarycolor;
+  padding: 4px 8px;
+  text-align: center;
+  border-radius: 7px;
+  color: $whitecolor;
+}

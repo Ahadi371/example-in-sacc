@@ -1,0 +1,22 @@
+$warningcolor: yellow;
+$whitecolor:red;
+.alert-warning {
+  background-color: $warningcolor;
+  padding: 20px;
+  margin-bottom: 15px;
+  color: $whitecolor;
+}
+.button-warning {
+  background-color: $warningcolor;
+  padding: 8px 20px;
+  color: $whitecolor;
+}
+.badge-warning {
+  background-color: $warningcolor;
+  padding: 4px 8px;
+  text-align: center;
+  border-radius: 7px;
+  color: $whitecolor;
+  
+}
+
